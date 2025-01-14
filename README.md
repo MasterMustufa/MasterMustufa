@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Mustufa Kashif
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning MERN & MEAN
-- 📫 How to reach me? By Emailing me on mastermindkraftsstudio@gmail.com
+- 📫 How to reach me?
+- Or Visit My PortFolio on https://mustufa-kashif-portfolio.vercel.app/
+- By Emailing me on mustufakashif37000@gmail.com
+- or on my workspace mail mastermindkraftsstudio@gmail.com
